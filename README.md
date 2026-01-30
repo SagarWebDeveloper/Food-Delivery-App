@@ -6,12 +6,20 @@ A sleek and modern **Food Delivery Web Application** built with **React** and **
 
 ## ✨ Highlights
 
-🍕 Beautiful food browsing experience  
+🍕 Beautiful food browsing experience/Browse food items with attractive UI  
 🛒 Add items to cart seamlessly  
 🔍 Search and explore food easily  
 📱 Mobile-first & fully responsive  
-⚡ Lightning-fast with Vite  
 🎨 Styled using Tailwind CSS  
+⚡ Fast performance using Vite
+
+---
+## 🚧 Future Enhancements
+
+🔐 User authentication  
+💳 Online payments  
+📦 Real-time order tracking  
+🧠 Backend integration (Node.js + MongoDB)  
 
 ---
 
@@ -25,6 +33,17 @@ A sleek and modern **Food Delivery Web Application** built with **React** and **
 | 🌐 Netlify | Deployment |
 
 ---
+
+##  🤝 Contributing
+
+Feel free to fork this repository and submit pull requests.
+Suggestions and improvements are always welcome!
+
+---
+
+##  📄 License
+
+📜 MIT License
 
 ## Author
 @ Sagar
